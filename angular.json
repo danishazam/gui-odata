@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gui-odata"
+    }
+  },
+  "defaultProject": "gui-odata",
+  "cli": {
+    "analytics": false
+  }
 }
